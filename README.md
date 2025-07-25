@@ -2,7 +2,7 @@
 1. Open ParrotOS or Kali
 2. Register to TryHackMe
 3. Click on the top "Access Machines" and follow the instructions to set up OpenVPN on your VM (or Native system).
-4. Open the Pyrat Machine from TryHackMe and follow the walkthroughs (you can search for better ones if you like on Google, there also videos on YouTube)
+4. Open the Pyrat Machine (https://tryhackme.com/room/pyrat) from TryHackMe and follow the walkthroughs (you can search for better ones if you like on Google, there are also videos on YouTube)
 https://shieldeddev.medium.com/pyrat-tryhackme-walkthrough-454363f49ea5
 or 
 https://rghx.medium.com/pyrat-tryhackme-walkthrough-rghx-2001f3f0fd0b
