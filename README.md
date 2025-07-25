@@ -17,3 +17,6 @@ https://rghx.medium.com/pyrat-tryhackme-walkthrough-rghx-2001f3f0fd0b
 2. Submit the flags on our CTF platform.
 
 3. Open the IP XX.XX.XX.XX and post the flags.
+
+Moria: https://medium.com/@xBBsec/moria-vulnhub-writeup-131e4c767fc4
+The Necromancer: https://medium.com/@Infinity_/necromancer-vulnhub-walkthrough-5aa32f224cc0
