@@ -18,4 +18,5 @@ Download the .ova from the CTF platform and then Solve and Submit the flags on t
 
 - Moria: https://medium.com/@xBBsec/moria-vulnhub-writeup-131e4c767fc4
 - Gaara: https://medium.com/@rizzziom/gaara-walkthrough-proving-gounds-474a07f3a709
+- Funbox (on the network): https://nepcodex.com/2021/07/funbox-under-construction-walkthrough/
 - (Hidden VM) The Necromancer: https://medium.com/@Infinity_/necromancer-vulnhub-walkthrough-5aa32f224cc0
