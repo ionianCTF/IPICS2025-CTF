@@ -14,7 +14,7 @@ Open the CTFd platform - Register/Login
 Start with the NITRO challenges - You should install Docker and play around according to the walkthrough
 
 # 3. Competition (Duration: 2 Hours) - 3 Machines (2 Local - 1 Hidden in the Network)
-Submit the flags on the CTF platform.
+Download the .ova from the CTF platform and then Solve and Submit the flags on the CTF platform.
 
 - Moria: https://medium.com/@xBBsec/moria-vulnhub-writeup-131e4c767fc4
 - Gaara: https://medium.com/@rizzziom/gaara-walkthrough-proving-gounds-474a07f3a709
