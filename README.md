@@ -2,7 +2,7 @@
 Open the CTFd platform - Register/Login
 Start with the NITRO challenges - You should install docker and play around according to the walkthrough
 
-# 2. IPICS2025-CTF
+# 2. IPICS2025-CTF (Duration: 2 Hours)
 1. Open ParrotOS or Kali
 2. Register to TryHackMe
 3. Click on the top "Access Machines" and follow the instructions to set up OpenVPN on your VM (or Native system).
@@ -12,7 +12,7 @@ or
 https://rghx.medium.com/pyrat-tryhackme-walkthrough-rghx-2001f3f0fd0b
 5. Submit the flags
 
-# 3. Competition
+# 3. Competition (Duration: 2 Hours)
 1. Open the machine from TryHackME named XXX: XXX
 2. Submit the flags on our CTF platform.
 
